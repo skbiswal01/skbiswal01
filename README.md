@@ -9,16 +9,16 @@
 
 
 <a href="https://www.linkedin.com/in/sunil-kumar-biswal/">
-  <img align="left" alt="Pulkit's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="sunil's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/sunil18695924">
-  <img align="left" alt="Pulkit Tyagi | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="sunil | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <br/>
 <br/>
 
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ## About Me
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in BBA and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
@@ -31,6 +31,7 @@
 - 📫 How to reach me **sunilbiswal01092001@gmail.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
+- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🚀 Languages and Tools:
 
