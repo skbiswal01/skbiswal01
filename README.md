@@ -1,5 +1,12 @@
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Sunil Kumar Biswal</a>!
+   
+</h2>
 
-## Hola, I'm Sunil Biswal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
+</p>
+
 
 <a href="https://www.linkedin.com/in/sunil-kumar-biswal/">
   <img align="left" alt="Pulkit's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -51,3 +58,31 @@
   <a href="https://github.com/skbiswal01/github-readme-stats"><img alt="Sunil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skbiswal01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+ <br>
+ 
+ <h2>ℹ️ &nbsp;Github Info</h2>
+<details>	
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skbiswal01&theme=github_dark" alt="NitishGoswami" align = "center"/></p>
+</details>
+<details>
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skbiswal01&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="NitishGoswami" /></p>
+</details>
+<details>
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skbiswal01&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+</details>
+<details>   
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/NitishGoswami"><img src="https://github-profile-trophy.vercel.app/?username=skbiswal01&margin-w=5&theme=radical" alt="NitishGoswami" /></a> </p>
+ </details>
+
+
+ <hr>
+<p align="center">
+    <i>Take a look at my repositories and let's get in touch!</i><br><br>
+   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>  
+
