@@ -31,8 +31,9 @@
 - 📫 How to reach me **sunilbiswal01092001@gmail.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
-- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="300" />
-
+ <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="300" />
+ <br>
+ 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
