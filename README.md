@@ -18,8 +18,9 @@
 <br/>
 <br/>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ## About Me
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in BBA and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
@@ -31,11 +32,10 @@
 - 📫 How to reach me **sunilbiswal01092001@gmail.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="300" />
  <br>
  
 ## 🚀 Languages and Tools:
-
+ <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="300" />
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
@@ -50,6 +50,11 @@
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
     
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 ## 📊 My Github Stats
