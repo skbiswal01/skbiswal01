@@ -90,7 +90,12 @@
 
  <hr>
 <p align="center">
-    <i>Take a look at my repositories and let's get in touch!</i><br><br>
+    if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/NiteshGoshwami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</p>
+<p align="center">
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
 </p>  
 
