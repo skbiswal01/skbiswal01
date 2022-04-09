@@ -76,15 +76,15 @@
 </details>
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skbiswal01&theme=github_dark" alt="NitishGoswami" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skbiswal01&theme=github_dark" alt="sunil" align = "center"/></p>
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/NitishGoswami"><img src="https://github-profile-trophy.vercel.app/?username=skbiswal01&margin-w=5&theme=radical" alt="NitishGoswami" /></a> </p>
+<p align="center"> <a href="https://github.com/NitishGoswami"><img src="https://github-profile-trophy.vercel.app/?username=skbiswal01&margin-w=5&theme=radical" alt="sunil" /></a> </p>
  </details>
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skbiswal01&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Sunil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skbiswal01&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
 
 
