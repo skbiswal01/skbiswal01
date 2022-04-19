@@ -87,7 +87,15 @@
 <p align="center"<a href="#"><img alt="Sunil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skbiswal01&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
 
+<hr>
 
+## Hey skbiswal01, what else do you do? 
+
+## Spotify-Status 🎧
+<p center" align="float="left" >
+  <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px"/>
+  <img alt="Your very best cyber grandma" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>
+</p>
 
  <hr>
 <p align="center">
