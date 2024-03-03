@@ -9,10 +9,10 @@
 
 
 <a href="https://www.linkedin.com/in/sunil-kumar-biswal/">
-  <img align="left" alt="sunil's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="sunil's LinkedIn" width="40px" src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png" />
 </a>
 <a href="https://twitter.com/sunil18695924">
-  <img align="left" alt="sunil | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="sunil | Twitter" width="40px" src="https://img.icons8.com/?size=96&id=13963&format=png" />
 </a>
 
 <br/>
